@@ -13,6 +13,7 @@ Testing: Jest, SuperTest, K6, Loader.io, New Relic
 ## Table of Contents
   - <a href='#system-design'>System Design</a>
   - <a href='#usage'>Usage</a>
+  - <a href='#db-initialization-and-etl-quaries-in-postgres'>DB Initialization and ETL Quaries in Postgres</a>
   - <a href='#installation'>Installation</a>
   - <a href='#other-services'>Other Services</a>
 
